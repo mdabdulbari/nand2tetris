@@ -1,0 +1,11 @@
+
+m = integer
+n = integer
+sum = 0
+i = 0
+if i == n goto End
+    sum = sum + m
+    i += 1
+
+End
+@11    
